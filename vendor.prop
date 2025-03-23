@@ -1,3 +1,6 @@
+# Fingerprint
+persist.vendor.fingerprint.type=rear
+
 # Camera
 persist.vendor.camera.HAL3.enabled=1
 persist.vendor.camera.awb.sync=2
